@@ -123,12 +123,7 @@ My academic interests bridge systems engineering and modern artificial intellige
 
   <tr>
     <td width="35%" align="center">
-      <!-- Prancheta UML project preview -->
-      <div style="background-color: #1e1e2e; color: #f9e2af; padding: 40px 10px; border-radius: 12px; font-weight: bold; border: 1px solid #45475a;">
-        📐 PRANCHETA UML<br/>
-        <small style="color: #a6adc8;">Multi-Language Reverse Engineering</small><br/><br/>
-        <span style="background: #585b70; color: #fff; padding: 2px 8px; border-radius: 4px; font-size: 11px;">C++ / MFC</span>
-      </div>
+      <img src="Imgs/PranchetaUML.png" alt="Prancheta UML" width="280" style="border-radius: 12px;" />
     </td>
     <td width="65%" valign="top">
       <h3>📐 Prancheta UML</h3>
