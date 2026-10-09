@@ -94,12 +94,7 @@ My academic interests bridge systems engineering and modern artificial intellige
 
   <tr>
     <td width="35%" align="center">
-      <!-- Archimede project preview -->
-      <div style="background-color: #1e1e2e; color: #89b4fa; padding: 40px 10px; border-radius: 12px; font-weight: bold; border: 1px solid #45475a;">
-        🧠 ARCHIMEDE<br/>
-        <small style="color: #a6adc8;">Deep Learning Framework</small><br/><br/>
-        <span style="background: #585b70; color: #fff; padding: 2px 8px; border-radius: 4px; font-size: 11px;">C# / DirectML</span>
-      </div>
+      <img src="Imgs/Archimede.png" alt="Archimede Deep Learning Framework" width="280" style="border-radius: 12px;" />
     </td>
     <td width="65%" valign="top">
       <h3>🧠 Archimede</h3>
@@ -147,12 +142,7 @@ My academic interests bridge systems engineering and modern artificial intellige
 
   <tr>
     <td width="35%" align="center">
-      <!-- MArj project preview -->
-      <div style="background-color: #1e1e2e; color: #a6e3a1; padding: 40px 10px; border-radius: 12px; font-weight: bold; border: 1px solid #45475a;">
-        🗜️ MArj<br/>
-        <small style="color: #a6adc8;">64-bit Modern Compression</small><br/><br/>
-        <span style="background: #585b70; color: #fff; padding: 2px 8px; border-radius: 4px; font-size: 11px;">Modern C++ (x64)</span>
-      </div>
+      <img src="Imgs/Marj.png" alt="MArj Compression" width="280" style="border-radius: 12px;" />
     </td>
     <td width="65%" valign="top">
       <h3>🗜️ MArj</h3>
