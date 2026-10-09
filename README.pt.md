@@ -5,18 +5,19 @@
 <!-- Seletor de Idiomas / Language Switcher -->
 <p align="center">
   <b>🌐 Idiomas / Languages:</b><br/>
-  <a href="README.md">🇺🇸 English (Main)</a> &nbsp;|&nbsp;
+  <a href="README.md">🇺🇸 English</a> &nbsp;|&nbsp;
   <b>🇧🇷 Português</b> &nbsp;|&nbsp;
-  <a href="README.it.md">🇮🇹 Italiano</a> <i>(em breve)</i> &nbsp;|&nbsp;
-  <a href="README.es.md">🇪🇸 Español</a> <i>(em breve)</i>
+  <a href="README.it.md">🇮🇹 Italiano</a> &nbsp;|&nbsp;
+  <a href="README.es.md">🇪🇸 Español</a> &nbsp;|&nbsp;
+  <a href="README.he.md">🇮🇱 עברית</a>
 </p>
 
-<!-- Foto de Perfil - Versão Português -->
+<!-- Foto de Perfil - Versão Brasil -->
 <a href="Imgs/ProfilePT.jpg">
   <img src="Imgs/ProfilePT.jpg" alt="Marco Aurélio Aloise Filho" width="260" style="border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.18); border: 2px solid #30363d;" />
 </a>
 
-### Engenheiro de Software &bull; Pesquisador em Inteligência Artificial &bull; Ex-Professor Universitário
+### Engenheiro de Software &bull; Pesquisador em Inteligência Artificial &bull; Experiência de uma década atuando na docência
 
 [![Lattes](https://img.shields.io/badge/Currículo-Lattes-185a9d?style=flat-square&logo=academia&logoColor=white)](http://lattes.cnpq.br/6178513390905074)
 [![Email](https://img.shields.io/badge/Email-mjcg12%40yahoo.com.br-c0392b?style=flat-square&logo=gmail&logoColor=white)](mailto:mjcg12@yahoo.com.br)
@@ -29,35 +30,34 @@
 
 ## 📌 Sobre Mim & Trajetória
 
-Sou bacharel em Informática e especialista com **MBA em Engenharia de Software pela USP (Esalq)** e especializações em Engenharia de Software e Arquitetura/SOA pela **UNICAMP**. Possuo mais de duas décadas de atuação na intersecção entre engenharia de software de missão crítica, pesquisa em Inteligência Artificial aplicada e docência universitária.
+Sou graduado em Informática (FATEC-ZL) com uma caminhada de mais de 20 anos na área de tecnologia, unindo a prática diária de desenvolvimento de sistemas com a pesquisa e a vida acadêmica. Tenho **MBA em Engenharia de Software pela USP (Esalq)**, **Especialização em Engenharia de Software pela UNICAMP** e curso de **Extensão em Arquitetura de Software, Componentização e SOA também pela UNICAMP**.
 
-Atualmente, atuo como **Analista de Sistemas Sênior no CRCSP**, onde idealizei e lidero a arquitetura do ecossistema institucional de inteligência artificial para automação e análise preditiva processual (redes neurais profundas, Transformers e LLMs locais). Entre 2011 e 2022, atuei como **Professor Universitário na Universidade de Mogi das Cruzes (UMC)**, ministrando disciplinas fundamentais de Ciência da Computação como Algoritmos, Análise e Projeto Orientados a Objetos e Arquitetura de Software, orientando 6 Trabalhos de Conclusão de Curso (TCC) e integrando diversas bancas examinadoras.
+Trabalho como Analista de Sistemas Sênior no CRCSP, onde idealizei e implementei soluções institucionais de apoio à análise de processos com Inteligência Artificial — aplicando redes neurais, arquitetura Transformer para predição processual e modelos de linguagem locais (como Gemma via LlamaSharp). No meio universitário, atuei por mais de dez anos como professor na Universidade de Mogi das Cruzes (UMC), lecionando disciplinas da base da computação (como Algoritmos, Programação Orientada a Objetos e Arquitetura de Software), participando de bancas avaliadoras e atuando em orientação de TCCs.
 
-Este perfil no GitHub reúne meus projetos autorais, implementações de frameworks e investigações científicas com foco em processos seletivos de **Mestrado Acadêmico**.
+Este perfil no GitHub é uma breve apresentação pessoal e de alguns dos meus projetos autorais.
 
 ---
 
 ## 🔬 Interesses de Pesquisa
 
-Meus interesses científicos e tecnológicos concentram-se no desenvolvimento de sistemas inteligentes eficientes, com ênfase nas seguintes linhas:
+Gosto de investigar problemas em que a teoria computacional encontra desafios práticos do mundo real:
 
-* **Inteligência Artificial Aplicada & Redes Neurais Profundas:** Investigação de arquiteturas neurais avançadas (Transformers, GANs, LSTMs, MLPs) para modelagem de fenômenos complexos, enriquecimento de bases com dados sintéticos (*data augmentation*) e predições com interpretabilidade.
-* **Integração Hardware-Software & Inteligência na Borda (IoT / Edge AI):** Aquisição contínua de telemetria industrial via protocolos de rede (ex.: Modbus/TCP), fusão sensorial e execução otimizada de modelos em hardware acelerado (GPU e NPU via DirectML).
-* **Engenharia de Software & Inteligência de Código:** Modelagem avançada de sistemas (UML), técnicas de engenharia reversa de código-fonte multiplataforma, análise estática e extração de estruturas sintáticas abstratas (AST).
-* **Computação de Alto Desempenho & Algoritmos de Sistemas:** Reimplementação e otimização de algoritmos clássicos de compactação e processamento de dados para arquiteturas modernas de 64 bits em C++ e C#.
+* **Inteligência Artificial Aplicada & Redes Neurais:** Estudo e aplicação de modelos profundos (Transformers, GANs, LSTMs e MLPs) para análise preditiva, aprendizado com dados complexos e geração de dados sintéticos (*data augmentation*) para enriquecer bases pequenas.
+* **Integração Hardware-Software & IoT:** Coleta de dados e telemetria em tempo real direto de maquinários e sensores via protocolos industriais (como Modbus/TCP), unindo chão de fábrica e modelos inteligentes acelerados em hardware (GPU/NPU via DirectML).
+* **Engenharia de Software & Engenharia Reversa:** Ferramental CASE, análise estática de código-fonte, construção de analisadores sintáticos (parsers/AST) e reconstrução automatizada de arquiteturas em múltiplas linguagens.
+* **Algoritmos & Computação de Alto Desempenho:** Modernização de algoritmos clássicos de compressão e processamento de dados para arquiteturas modernas de 64 bits em C++ e C#.
 
 ---
 
-## 🏆 Distinções & Publicações Recentes
+## 🏆 Distinções Acadêmicas
 
-* **Indicação a Melhor TCC do MBA USP/Esalq (2026):** Trabalho de Conclusão intitulado *"Uso de Machine Learning para correlacionar variáveis da torra de cafés especiais com notas sensoriais"*, aprovado com nota máxima e indicado à distinção pelos professores Elisa Antolli (orientadora) e Diego Raphael Amancio (banca examinadora USP).
-* **Publicação em Periódico Técnico-Científico:** Resumo executivo publicado na *Revista E&S (Pecege)*: [Machine Learning na torra e análise sensorial de cafés especiais](https://revistaes.com.br/resumo-executivo/machine-learning-na-torra-e-analise-sensorial-de-cafes-especiais).
+* **Indicação a Melhor TCC do MBA USP/Esalq (2026):** Trabalho de Conclusão intitulado *"Uso de Machine Learning para correlacionar variáveis da torra de cafés especiais com notas sensoriais"*, aprovado com nota máxima e indicado ao prêmio pelos professores Elisa Antolli (orientadora) e Diego Raphael Amancio (banca USP). O resumo executivo da pesquisa foi publicado na *Revista E&S (Pecege)* e pode ser conferido em: [Machine Learning na torra e análise sensorial de cafés especiais](https://revistaes.com.br/resumo-executivo/machine-learning-na-torra-e-analise-sensorial-de-cafes-especiais).
 
 ---
 
 ## 💻 Grandes Projetos de Software
 
-> *Nota:* A maior parte dos projetos abaixo é mantida em repositórios privados devido a direitos proprietários e pesquisas em andamento. Para avaliação técnica e acadêmica, disponibilizo repositórios de apresentação (*overview*) detalhando arquitetura, metodologia e amostras de código.
+> *Nota:* Todos os meus projetos principais são mantidos em repositórios privados por se tratarem de pesquisas autorais e código proprietário. Criei repositórios públicos de apresentação (*overview*) com documentação, detalhes de arquitetura e exemplos de uso. **O acesso aos repositórios privados completos poderá ser concedido mediante solicitação.**
 
 <table>
   <tr>
@@ -70,12 +70,12 @@ Meus interesses científicos e tecnológicos concentram-se no desenvolvimento de
       <h3>☕ <a href="https://github.com/mjcg12/venezia-overview">Projeto Venezia</a></h3>
       <p><b>Pesquisa Aplicada &bull; IoT &bull; Aprendizado de Máquina &bull; Data Augmentation</b></p>
       <p>
-        Sistema completo de aquisição e processamento de telemetria termodinâmica de torra de cafés especiais com correlação a atributos sensoriais da bebida (SCA cupping).
+        Sistema completo que captura em tempo real variáveis termodinâmicas da torra de cafés especiais e relaciona essas curvas com as notas sensoriais da prova da bebida (protocolo SCA).
       </p>
       <ul>
-        <li><b>Comunicação em Tempo Real:</b> Integração hardware-software com torrador via <code>Modbus/TCP</code>.</li>
-        <li><b>Clusterização & Análise:</b> Agrupamentos multivariados com algoritmo <code>DBSCAN</code>.</li>
-        <li><b>Dados Sintéticos:</b> Geração e balanceamento de amostras com Redes Adversariais Generativas (<code>GANs</code>).</li>
+        <li><b>Comunicação em Tempo Real:</b> Leitura de telemetria do torrador via protocolo industrial <code>Modbus/TCP</code>.</li>
+        <li><b>Clusterização:</b> Agrupamento de perfis e variáveis com algoritmo <code>DBSCAN</code>.</li>
+        <li><b>Dados Sintéticos:</b> Expansão de amostragem por Redes Adversariais Generativas (<code>GANs</code>).</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
@@ -95,11 +95,11 @@ Meus interesses científicos e tecnológicos concentram-se no desenvolvimento de
       <h3>🧠 Archimede</h3>
       <p><b>Deep Learning Framework &bull; Aceleração por Hardware &bull; Treinamento e Inferência</b></p>
       <p>
-        Framework proprietário desenvolvido em C# do zero para treinamento e inferência de redes neurais profundas. Projetado para máxima flexibilidade e integração direta com o subsistema gráfico do Windows.
+        Framework construído em C# do zero para treinamento e inferência de redes neurais profundas, tirando proveito direto dos recursos gráficos e aceleradores de hardware.
       </p>
       <ul>
-        <li><b>Aceleração de Hardware:</b> Execução eficiente em CPU, e aceleração por GPU e NPU via <code>DirectML</code>.</li>
-        <li><b>Arquiteturas Suportadas:</b> Camadas densas (<code>MLP</code>), recorrentes (<code>LSTM</code>), generativas (<code>GANs</code>) e modelos de atenção (<code>Transformers</code>).</li>
+        <li><b>Aceleração em Hardware:</b> Execução eficiente em CPU e aceleração gráfica em GPU e NPU via <code>DirectML</code>.</li>
+        <li><b>Topologias Suportadas:</b> Redes densas (<code>MLP</code>), recorrentes (<code>LSTM</code>), generativas (<code>GANs</code>) e blocos de atenção (<code>Transformers</code>).</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
@@ -107,7 +107,7 @@ Meus interesses científicos e tecnológicos concentram-se no desenvolvimento de
         <img src="https://img.shields.io/badge/GPU%2FNPU%20Acceleration-76B900?style=flat-square" />
         <img src="https://img.shields.io/badge/Transformers-FFA000?style=flat-square" />
       </p>
-      <p><i>🔗 Repositório de Apresentação em elaboração</i></p>
+      <p><i>🔗 Repositório de Apresentação em elaboração (código privado disponível sob solicitação)</i></p>
     </td>
   </tr>
 
@@ -119,11 +119,11 @@ Meus interesses científicos e tecnológicos concentram-se no desenvolvimento de
       <h3>📐 Prancheta UML</h3>
       <p><b>Engenharia de Software &bull; Modelagem Visual &bull; Engenharia Reversa Multilinguagem</b></p>
       <p>
-        Ferramenta CASE de engenharia de software e modelagem diagramática desenvolvida em C++ (MFC), com mecanismo robusto de análise léxica e sintática para engenharia reversa.
+        Ambiente CASE de modelagem diagramática desenvolvido em C++ nativo (MFC), com um mecanismo de análise sintática e léxica voltado para extração e reconstrução de arquiteturas.
       </p>
       <ul>
-        <li><b>Engenharia Reversa Automatizada:</b> Parser capaz de reconstruir diagramas de classes e dependências a partir do código-fonte em <b>C++, C#, Java, Python, Object Pascal e Visual Basic</b>.</li>
-        <li><b>Arquitetura Nativa:</b> Execução de alto desempenho sem overhead de máquinas virtuais pesadas.</li>
+        <li><b>Engenharia Reversa Automatizada:</b> Parser capaz de reconstruir diagramas de classes e relações estruturais diretamente do código em <b>C++, C#, Java, Python, Object Pascal e Visual Basic</b>.</li>
+        <li><b>Arquitetura Nativa:</b> Execução leve e veloz em ambiente Windows, sem dependência de runtimes pesados.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -131,7 +131,7 @@ Meus interesses científicos e tecnológicos concentram-se no desenvolvimento de
         <img src="https://img.shields.io/badge/AST%20Parsing-E65100?style=flat-square" />
         <img src="https://img.shields.io/badge/Reverse%20Engineering-4CAF50?style=flat-square" />
       </p>
-      <p><i>🔗 Repositório de Apresentação em elaboração</i></p>
+      <p><i>🔗 Repositório de Apresentação em elaboração (código privado disponível sob solicitação)</i></p>
     </td>
   </tr>
 
@@ -143,50 +143,49 @@ Meus interesses científicos e tecnológicos concentram-se no desenvolvimento de
       <h3>🗜️ MArj</h3>
       <p><b>Algoritmos de Alta Performance &bull; Compactação de Dados &bull; Modern C++</b></p>
       <p>
-        Reconstrução, refatoração e modernização do clássico algoritmo de compactação de dados ARJ original (escrito em C/Assembly legado) para o padrão moderno C++ de 64 bits.
+        Reconstrução completa do clássico algoritmo de compactação ARJ (originalmente em C/Assembly) para padrões do C++ moderno otimizado para 64 bits.
       </p>
       <ul>
-        <li><b>Otimização de Baixo Nível:</b> Estruturas de dados alinhadas para arquiteturas modernas x86_64 e eliminação de gargalos legados de memória.</li>
-        <li><b>Interfaces Duplas:</b> Disponibilização em interface de linha de comando (CLI) e interface gráfica nativa para Windows.</li>
+        <li><b>Otimização de Baixo Nível:</b> Estruturas em memória alinhadas para arquiteturas x86_64, superando limitações e segmentações de memória do formato legado.</li>
+        <li><b>Interface Flexível:</b> Disponível como utilitário de linha de comando (CLI) e aplicação com interface gráfica nativa para Windows.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
         <img src="https://img.shields.io/badge/64--bit%20Optimized-37474F?style=flat-square" />
         <img src="https://img.shields.io/badge/Algorithms-8E24AA?style=flat-square" />
       </p>
-      <p><i>🔗 Repositório de Apresentação em elaboração</i></p>
+      <p><i>🔗 Repositório de Apresentação em elaboração (código privado disponível sob solicitação)</i></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🏛️ Atuação Profissional em Sistemas Críticos
+## 🏛️ Atuação Profissional
 
 * **Conselho Regional de Contabilidade do Estado de São Paulo (CRCSP)** &bull; *Analista de Sistemas Sênior (2007 &ndash; Atual)*
-  * **Ecossistema de IA Processual:** Concepção e implantação de rede neural MLP para triagem e classificação documental; integração de arquiteturas Transformer (GPT) para predição de desfechos de autos de infração e cálculo de dosimetria penal; pipeline de geração textual técnica com LLM local **Gemma4** via LlamaSharp.
-  * **Sistemas Corporativos Core:** Responsável pela digitalização e tramitação 100% eletrônica dos processos fiscalizatórios (2010), sistema de ofícios digitais com certificação digital ICP-Brasil (2012) e soluções móveis institucionais.
+  * **IA de Apoio à Análise Processual:** Idealizou e implementou redes neurais MLP para triagem e classificação documental, arquiteturas Transformer (GPT) para previsão de desfechos e auxílio na dosimetria de penalidades, além de esteira de modelos de linguagem locais com **Gemma4** via LlamaSharp.
+  * **Sistemas Corporativos Core:** Idealizou e implementou a digitalização dos processos de fiscalização (2010), sistema de ofícios digitais com assinatura ICP-Brasil (2012) e soluções móveis.
 
 ---
 
 ## 🎓 Formação Acadêmica & Docência
 
 * **MBA em Engenharia de Software:** Universidade de São Paulo (USP / Esalq) &bull; *2024 &ndash; 2026*
-* **Extensão em Arquitetura de Software, Componentização e SOA:** Universidade Estadual de Campinas (UNICAMP) &bull; *2008*
+* **Extensão Universitária em Arquitetura de Software, Componentização e SOA:** Universidade Estadual de Campinas (UNICAMP) &bull; *2008*
 * **Especialização em Engenharia de Software:** Universidade Estadual de Campinas (UNICAMP) &bull; *2007*
-* **Tecnologia em Informática (Gestão de Negócios):** FATEC Zona Leste &bull; *2003 &ndash; 2006*
-* **Magistério Superior:** Universidade de Mogi das Cruzes (UMC) &bull; *Professor Universitário (2011 &ndash; 2022)*
-  * Docência em Engenharia de Software, Algoritmos, Estruturas de Dados e Orientação a Objetos. Orientador de 6 TCCs e membro ativo de bancas examinadoras.
+* **Graduação em Informática (Gestão de Negócios):** FATEC Zona Leste &bull; *2003 &ndash; 2006*
+* **Docência no Ensino Superior:** Universidade de Mogi das Cruzes (UMC) &bull; *Professor Universitário (2011 &ndash; 2022)*
+  * Lecionou disciplinas de Engenharia de Software, Algoritmos, Estruturas de Dados e Orientação a Objetos. Atuou em orientação de TCCs e participação em bancas examinadoras.
 
 ---
 
-## 📬 Contato Acadêmico & Profissional
+## 📬 Contato
 
 - 📍 São Paulo, SP &ndash; Brasil
 - ✉️ Email: [mjcg12@yahoo.com.br](mailto:mjcg12@yahoo.com.br)
 - 📄 Currículo Lattes: [6178513390905074](http://lattes.cnpq.br/6178513390905074)
-- 🌐 Perfil Institucional: [CRCSP](https://www.crcsp.org.br)
 
 <div align="center">
-  <sub>Página desenvolvida para apresentação acadêmica e técnico-científica.</sub>
+  <sub>Desenvolvido com carinho e dedicação à ciência e à engenharia de software.</sub>
 </div>

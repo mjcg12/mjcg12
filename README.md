@@ -7,16 +7,17 @@
   <b>🌐 Languages / Idiomas:</b><br/>
   <b>🇺🇸 English</b> &nbsp;|&nbsp;
   <a href="README.pt.md">🇧🇷 Português</a> &nbsp;|&nbsp;
-  <a href="README.it.md">🇮🇹 Italiano</a> <i>(coming soon)</i> &nbsp;|&nbsp;
-  <a href="README.es.md">🇪🇸 Español</a> <i>(próximamente)</i>
+  <a href="README.it.md">🇮🇹 Italiano</a> &nbsp;|&nbsp;
+  <a href="README.es.md">🇪🇸 Español</a> &nbsp;|&nbsp;
+  <a href="README.he.md">🇮🇱 עברית</a>
 </p>
 
-<!-- Profile Picture for English / International Audience -->
+<!-- Profile Picture - Silicon Valley / US Context -->
 <a href="Imgs/ProfileEN.jpg">
   <img src="Imgs/ProfileEN.jpg" alt="Marco Aurélio Aloise Filho" width="240" style="border-radius: 50%; box-shadow: 0 4px 16px rgba(0,0,0,0.18); border: 3px solid #30363d;" />
 </a>
 
-### Software Systems Engineer &bull; Applied AI Researcher &bull; Former Computer Science Lecturer
+### Software Systems Engineer &bull; Applied AI Researcher &bull; Decade of Higher Education Teaching Experience
 
 [![Academic CV](https://img.shields.io/badge/Academic_CV-Lattes-185a9d?style=flat-square&logo=academia&logoColor=white)](http://lattes.cnpq.br/6178513390905074)
 [![Email](https://img.shields.io/badge/Email-mjcg12%40yahoo.com.br-c0392b?style=flat-square&logo=gmail&logoColor=white)](mailto:mjcg12@yahoo.com.br)
@@ -27,41 +28,36 @@
 
 ---
 
-## 👨‍💻 Academic & Professional Overview
+## ⚡ Executive Overview
 
-Welcome to my research portfolio. I am a software engineer and researcher with a solid academic background comprising an **MBA in Software Engineering from the University of São Paulo (USP / Esalq)** and postgraduate specializations in Software Architecture & SOA from the **State University of Campinas (UNICAMP)**. 
+I am a Software Systems Engineer and Applied AI Researcher with 20+ years of engineering experience spanning systems programming, industrial IoT telemetry, and deep learning architectures. My academic credentials include an **MBA in Software Engineering from the University of São Paulo (USP / Esalq)**, a **Postgraduate Specialization in Software Engineering from UNICAMP**, and a **University Extension in Software Architecture, Componentization & SOA from UNICAMP**.
 
-With over 20 years of hands-on experience developing mission-critical systems and over a decade of university lecturing in Computer Science, my current focus is on **Applied Artificial Intelligence, Hardware-Software Systems Integration, and High-Performance Software Engineering**.
+In production engineering, I serve as Senior Systems Analyst at CRCSP, where I conceived and implemented the organization's AI platform for regulatory and judicial process analysis support—deploying deep neural networks, Transformer architectures for outcome prediction and dosimetry support, and local LLM pipelines (**Gemma** via LlamaSharp). Concurrently, I bring a decade of higher education teaching experience at University of Mogi das Cruzes (UMC, 2011–2022), lecturing core computer science curricula (Algorithms, Data Structures, OOP, Software Architecture), supervising undergraduate theses, and participating on academic examination boards.
 
-Currently:
-- **Senior Systems Analyst at CRCSP:** Architect and lead developer of institutional enterprise AI solutions, including document classification neural networks, Transformer-based case outcome and penalty dosimetry models, and local LLM deployment pipelines (**Gemma4** via LlamaSharp).
-- **Former CS Professor at University of Mogi das Cruzes (UMC, 2011–2022):** Lectured fundamental undergraduate computing curricula (Algorithms, Data Structures, Object-Oriented Analysis & Design, Software Architecture), supervising 6 thesis projects (TCC) and serving on examination boards.
-
-This GitHub profile showcases my core independent software projects, research frameworks, and applied investigations, prepared specifically for **M.Sc. / Graduate Admissions committees**.
+This GitHub profile is a brief personal overview and showcase of select proprietary software projects.
 
 ---
 
-## 🔭 Research Interests
+## 🔬 Applied Research Focus
 
-My academic interests bridge systems engineering and modern artificial intelligence:
+My R&D initiatives focus on bridging theoretical computer science with hardware-conscious systems engineering:
 
-* **Applied Deep Learning & Generative Models:** Novel applications of Generative Adversarial Networks (GANs) for synthetic data augmentation, multivariate time series modeling (LSTMs), and Transformer architectures for domain-specific representation and decision support.
-* **Hardware-Software Integration & Edge Intelligence (IoT / Telemetry):** Real-time industrial automation telemetry acquisition (e.g., Modbus/TCP), sensory data fusion, and low-latency inference on accelerated hardware (CPU, GPU, and NPU via DirectML).
-* **Software Engineering & Code Intelligence:** Multi-language source code reverse engineering, Abstract Syntax Tree (AST) lexical/syntactic parsing, automated CASE diagram generation (UML), and architectural conformance checking.
-* **Systems Programming & High-Performance Computing:** Modern C++ (C++20/64-bit) algorithm re-engineering, memory-aligned data structures, and lossless compression implementations.
-
----
-
-## 🎖️ Recent Honors & Publications
-
-* **Nomination for Best MBA Thesis Award (USP / Esalq, 2026):** Thesis titled *"Applying Machine Learning to Correlate Specialty Coffee Roasting Variables with Sensory Attributes"*, evaluated with maximum grade and nominated by advisor Prof. Elisa Antolli and examination board member Prof. Diego Raphael Amancio (USP).
-* **Published Executive Research Summary:** Featured in *Revista E&S (Pecege)*: [Machine Learning in Roasting and Sensory Analysis of Specialty Coffees](https://revistaes.com.br/resumo-executivo/machine-learning-na-torra-e-analise-sensorial-de-cafes-especiais).
+* **Applied Deep Learning & Generative Architectures:** Designing practical neural network pipelines (Transformers, GANs, LSTMs, MLPs) for complex time-series estimation and synthetic data augmentation to overcome low-data industrial regimes.
+* **Hardware-Software Co-Design & Edge Telemetry (IoT / Industrial Systems):** Low-latency telemetry streaming over industrial protocols (Modbus/TCP) and accelerated edge inference leveraging DirectML across CPU, GPU, and NPU architectures.
+* **Program Analysis & Automated CASE Engineering:** Building AST parsers, reverse-engineering pipelines, and lexical analysis engines capable of parsing polyglot enterprise codebases into structural UML architectures.
+* **Systems Programming & High-Performance Computing:** Re-engineering classic data compression and systems algorithms in modern 64-bit C++ (C++20), optimizing memory layouts and cache locality.
 
 ---
 
-## 🚀 Featured Software Projects
+## 🏆 Honors & Applied Research Output
 
-> *Note:* Core algorithmic engines are hosted in private repositories due to proprietary implementations and ongoing research. Detailed architectural overviews, technical documentation, and demonstration samples are available in dedicated **overview repositories**.
+* **Best MBA Thesis Nomination (USP / Esalq, 2026):** Authored *"Applying Machine Learning to Correlate Specialty Coffee Roasting Variables with Sensory Attributes"*, awarded the maximum grade and nominated for Best Thesis by advisor Prof. Elisa Antolli and examination board member Prof. Diego Raphael Amancio (USP). An executive summary was published in *Revista E&S (Pecege)*: [Machine Learning in Roasting and Sensory Analysis of Specialty Coffees](https://revistaes.com.br/resumo-executivo/machine-learning-na-torra-e-analise-sensorial-de-cafes-especiais).
+
+---
+
+## 🚀 Selected Software Projects
+
+> *Note:* All primary software systems are maintained in private repositories due to proprietary code and ongoing academic research. Dedicated public **overview repositories** provide architectural blueprints, methodology, and demonstration artifacts. **Full codebase access is available upon request for academic and technical evaluation.**
 
 <table>
   <tr>
@@ -72,14 +68,14 @@ My academic interests bridge systems engineering and modern artificial intellige
     </td>
     <td width="65%" valign="top">
       <h3>☕ <a href="https://github.com/mjcg12/venezia-overview">Venezia Project</a></h3>
-      <p><b>Applied AI Research &bull; Industrial IoT &bull; Machine Learning &bull; Data Augmentation</b></p>
+      <p><b>Applied AI &bull; Industrial IoT Telemetry &bull; Machine Learning &bull; Synthetic Data Augmentation</b></p>
       <p>
-        End-to-end telemetry acquisition and machine learning platform correlating thermodynamic coffee roasting curves with Specialty Coffee Association (SCA) cupping scores.
+        End-to-end industrial telemetry platform correlating real-time thermodynamic coffee roasting dynamics with cupping sensory attributes (SCA protocol).
       </p>
       <ul>
-        <li><b>Real-Time Industrial IoT:</b> Hardware-software telemetry polling through <code>Modbus/TCP</code> directly from coffee roasting machinery.</li>
+        <li><b>Real-Time Machine Polling:</b> Direct hardware integration over <code>Modbus/TCP</code> acquiring high-frequency thermodynamic data.</li>
         <li><b>Unsupervised Clustering:</b> Multivariate profile analysis using <code>DBSCAN</code>.</li>
-        <li><b>Synthetic Data Augmentation:</b> Generative Adversarial Networks (<code>GANs</code>) to synthetically expand sensory and thermodynamic datasets.</li>
+        <li><b>Synthetic Data Augmentation:</b> Generative Adversarial Networks (<code>GANs</code>) expanding sparse empirical roasting datasets.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
@@ -98,13 +94,13 @@ My academic interests bridge systems engineering and modern artificial intellige
     </td>
     <td width="65%" valign="top">
       <h3>🧠 Archimede</h3>
-      <p><b>Deep Learning Framework &bull; Hardware Acceleration &bull; Neural Training & Inference</b></p>
+      <p><b>Deep Learning Framework &bull; DirectML Acceleration &bull; Neural Training & Inference</b></p>
       <p>
-        Clean-slate deep learning framework written in C# designed for transparent training and inference pipelines with native Windows graphics API acceleration.
+        Clean-slate deep learning framework written in C# designed for transparent training and inference pipelines with native hardware acceleration.
       </p>
       <ul>
-        <li><b>Heterogeneous Hardware Acceleration:</b> Optimized execution across CPU, discrete GPU, and neural processing units (NPU) via <code>DirectML</code>.</li>
-        <li><b>Model Topologies:</b> Native support for Multilayer Perceptrons (<code>MLP</code>), Long Short-Term Memory (<code>LSTM</code>), <code>GANs</code>, and <code>Transformer</code> attention layers.</li>
+        <li><b>Heterogeneous Hardware Acceleration:</b> Execution across CPU, GPU, and NPU via Microsoft <code>DirectML</code>.</li>
+        <li><b>Supported Topologies:</b> Multilayer Perceptrons (<code>MLP</code>), Long Short-Term Memory (<code>LSTM</code>), <code>GANs</code>, and <code>Transformer</code> attention blocks.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
@@ -112,7 +108,7 @@ My academic interests bridge systems engineering and modern artificial intellige
         <img src="https://img.shields.io/badge/GPU%2FNPU%20Acceleration-76B900?style=flat-square" />
         <img src="https://img.shields.io/badge/Transformers-FFA000?style=flat-square" />
       </p>
-      <p><i>🔗 Overview repository in preparation</i></p>
+      <p><i>🔗 Overview repository in preparation (private codebase available upon request)</i></p>
     </td>
   </tr>
 
@@ -122,13 +118,13 @@ My academic interests bridge systems engineering and modern artificial intellige
     </td>
     <td width="65%" valign="top">
       <h3>📐 Prancheta UML</h3>
-      <p><b>Software Engineering &bull; CASE Tool &bull; Polyglot Code Reverse Engineering</b></p>
+      <p><b>Software Engineering &bull; CASE Modeling &bull; Polyglot Code Reverse Engineering</b></p>
       <p>
-        High-performance UML modeling and CASE environment built in C++ (MFC), featuring a dedicated syntactic parsing engine for automated architecture extraction.
+        High-throughput UML diagramming and CASE engine built in C++ (MFC), featuring a custom lexical and syntactic AST parser for automated architectural extraction.
       </p>
       <ul>
-        <li><b>Automated Reverse Engineering:</b> Full lexical and syntax analysis reconstructing class diagrams and inheritance trees from source code in <b>C++, C#, Java, Python, Object Pascal, and Visual Basic</b>.</li>
-        <li><b>Native Architecture:</b> Zero runtime dependencies, providing high responsiveness on complex enterprise codebases.</li>
+        <li><b>Automated Reverse Engineering:</b> AST engine reverse-engineering class models, inheritance hierarchies, and dependencies across <b>C++, C#, Java, Python, Object Pascal, and Visual Basic</b>.</li>
+        <li><b>Native Architecture:</b> Zero virtual-machine runtime overhead, ensuring near-instantaneous parsing of complex enterprise codebases.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -136,7 +132,7 @@ My academic interests bridge systems engineering and modern artificial intellige
         <img src="https://img.shields.io/badge/AST%20Parsing-E65100?style=flat-square" />
         <img src="https://img.shields.io/badge/Reverse%20Engineering-4CAF50?style=flat-square" />
       </p>
-      <p><i>🔗 Overview repository in preparation</i></p>
+      <p><i>🔗 Overview repository in preparation (private codebase available upon request)</i></p>
     </td>
   </tr>
 
@@ -146,52 +142,51 @@ My academic interests bridge systems engineering and modern artificial intellige
     </td>
     <td width="65%" valign="top">
       <h3>🗜️ MArj</h3>
-      <p><b>Algorithm Modernization &bull; Data Compression &bull; Modern 64-bit C++</b></p>
+      <p><b>Systems Programming &bull; High-Performance Data Compression &bull; Modern 64-bit C++</b></p>
       <p>
-        Complete refactoring and architectural modernizing of the historic ARJ compression algorithm from legacy C/Assembly to modern 64-bit C++.
+        Architectural re-engineering and modernization of the historic ARJ compression algorithm from legacy C/Assembly into clean, modern 64-bit C++.
       </p>
       <ul>
-        <li><b>Performance Optimization:</b> Modern memory layouts, 64-bit pointer alignment, and elimination of 16-bit legacy memory segmentation constraints.</li>
-        <li><b>Dual Interface:</b> CLI utility for terminal workflows and native Windows GUI frontend.</li>
+        <li><b>Low-Level Optimization:</b> Modern memory-aligned data structures for x86_64 architectures, removing legacy 16-bit segmented memory bottlenecks.</li>
+        <li><b>Dual Interface:</b> High-throughput terminal CLI utility and native Windows GUI frontend.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
         <img src="https://img.shields.io/badge/x64%20Optimized-37474F?style=flat-square" />
         <img src="https://img.shields.io/badge/Algorithms-8E24AA?style=flat-square" />
       </p>
-      <p><i>🔗 Overview repository in preparation</i></p>
+      <p><i>🔗 Overview repository in preparation (private codebase available upon request)</i></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🏛️ Enterprise Experience in Mission-Critical Systems
+## 🏛️ Industry Background
 
 * **Conselho Regional de Contabilidade do Estado de São Paulo (CRCSP)** &bull; *Senior Systems Analyst (2007 &ndash; Present)*
-  * **Enterprise AI Ecosystem:** Architecture and production rollout of an end-to-end intelligent document and judicial process platform. Integrated MLP networks for document classification, Transformer models for legal outcome and sanction dosimetry prediction, and an on-premise pipeline leveraging **Gemma4** via LlamaSharp.
-  * **Core Systems Modernization:** Led technical digitalization of official inspection workflows (2010), secure digital communication and ICP-Brasil cryptographic signing system (2012), and mobile applications.
+  * **Enterprise AI for Process Analysis Support:** Conceived and implemented machine learning systems assisting in legal/regulatory analysis, including document classification (MLP), outcome prediction and sanction dosimetry (Transformer), and local LLM workflows powered by **Gemma** via LlamaSharp.
+  * **Core Enterprise Modernization:** Conceived and implemented full digitalization of official inspection workflows (2010), cryptographic digital document delivery (2012), and mobile applications.
 
 ---
 
-## 🎓 Education & Teaching Background
+## 🎓 Education & Academic Experience
 
 * **MBA in Software Engineering:** University of São Paulo (USP / Esalq) &bull; *2024 &ndash; 2026*
-* **Postgraduate Specialization in Software Architecture & SOA:** State University of Campinas (UNICAMP) &bull; *2008*
+* **University Extension in Software Architecture, Componentization & SOA:** State University of Campinas (UNICAMP) &bull; *2008*
 * **Postgraduate Specialization in Software Engineering:** State University of Campinas (UNICAMP) &bull; *2007*
 * **B.Tech. in Information Technology & Business Management:** FATEC Zona Leste &bull; *2003 &ndash; 2006*
-* **Higher Education Faculty:** University of Mogi das Cruzes (UMC) &bull; *Assistant Professor (2011 &ndash; 2022)*
-  * Taught Core CS curricula: Software Architecture, Object-Oriented Analysis & Design, Programming Techniques, Algorithms, and Databases. Supervised 6 undergraduate theses.
+* **Higher Education Faculty:** University of Mogi das Cruzes (UMC) &bull; *Professor (2011 &ndash; 2022)*
+  * Taught Core CS curricula: Software Architecture, Object-Oriented Analysis & Design, Programming Techniques, Algorithms, and Databases. Supervised undergraduate theses and served on academic examination boards.
 
 ---
 
-## 📬 Contact & Academic Profiles
+## 📬 Contact & Profiles
 
 - 📍 São Paulo, SP &ndash; Brazil
 - ✉️ Email: [mjcg12@yahoo.com.br](mailto:mjcg12@yahoo.com.br)
 - 📄 Brazilian Academic CV (Lattes): [6178513390905074](http://lattes.cnpq.br/6178513390905074)
-- 🌐 Institutional Website: [CRCSP](https://www.crcsp.org.br)
 
 <div align="center">
-  <sub>Portfolio prepared for Graduate Admissions & Academic Research Evaluation.</sub>
+  <sub>Engineered with precision for scientific research and software systems.</sub>
 </div>
