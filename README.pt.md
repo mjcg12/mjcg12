@@ -13,8 +13,8 @@
 </p>
 
 <!-- Foto de Perfil - Versão Brasil -->
-<a href="Imgs/ProfilePT.jpg">
-  <img src="Imgs/ProfilePT.jpg" alt="Marco Aurélio Aloise Filho" width="260" style="border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.18); border: 2px solid #30363d;" />
+<a href="Imgs/ProfilePT_v2.jpg">
+  <img src="Imgs/ProfilePT_v2.jpg" alt="Marco Aurélio Aloise Filho" width="280" style="border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.18); border: 2px solid #30363d;" />
 </a>
 
 ### Engenheiro de Software &bull; Pesquisador em Inteligência Artificial &bull; Experiência de uma década atuando na docência
