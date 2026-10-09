@@ -11,8 +11,10 @@
   <a href="README.es.md">🇪🇸 Español</a> <i>(em breve)</i>
 </p>
 
-<!-- Foto de Perfil - Versão Português (quando adicionar ProfilePT.jpg, substitua o arquivo na pasta Imgs/) -->
-<img src="Imgs/ProfileEN.jpg" alt="Marco Aurélio Aloise Filho" width="220" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+<!-- Foto de Perfil - Versão Português -->
+<a href="Imgs/ProfilePT.jpg">
+  <img src="Imgs/ProfilePT.jpg" alt="Marco Aurélio Aloise Filho" width="260" style="border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.18); border: 2px solid #30363d;" />
+</a>
 
 ### Engenheiro de Software &bull; Pesquisador em Inteligência Artificial &bull; Ex-Professor Universitário
 
